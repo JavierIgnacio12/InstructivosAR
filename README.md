@@ -7,3 +7,7 @@ InstruAR es una aplicación móvil que tiene como finalidad ayudar al usuario a 
 
 - Sistema Android
 - Android 7.0 Nougat en adelante
+
+### Etapa actual
+
+Fase beta-test
