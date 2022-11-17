@@ -1,4 +1,4 @@
-# InstructivosAR
+# InstruAR
 
 ### Sobre InstruAR
 InstruAR es una aplicación móvil que tiene como finalidad ayudar al usuario a comprender de manera eficaz los manuales de instrucciones al armar o modificar algún objeto tecnológico.
