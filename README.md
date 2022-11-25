@@ -11,3 +11,7 @@ InstruAR es una aplicación móvil que tiene como finalidad ayudar al usuario a 
 ### Etapa actual
 
 Fase beta-test
+
+### Última versión de actualización
+
+- V.04
